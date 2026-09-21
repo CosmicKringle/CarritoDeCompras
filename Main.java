@@ -1,3 +1,4 @@
+//Aranza Aguilar Madrigal , Ariana Belén Chinchilla Salazar , Diego Kamil Olea Ruiz, Erwin Deangelo Torres.
 import java.util.Scanner;
 
 public class Main {
